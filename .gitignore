@@ -1,0 +1,48 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+
+HELP.md
+.gradle
+build/
+bin/
+!**/src/main/**
+!**/src/test/**
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+.idea/*.*
+.idea/*
+*.iws
+*.iml
+*.ipr
+out/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+.DS_Store
+
+### Wiremock ###
+src/test/resources/stubs/*.jar
+src/main/generated/**
+
+
+gradle/wrapper/**
+gradlew
+gradlew.bat
