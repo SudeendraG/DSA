@@ -1,3 +1,5 @@
+package com.problems;
+
 public class RunnerLengthEncoding {
     //input : aabbbcaad -9
     //output : a2b3c1a2d1
